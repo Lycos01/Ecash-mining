@@ -1,0 +1,2 @@
+# Ecash-mining
+test
